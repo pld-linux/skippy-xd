@@ -1,5 +1,5 @@
 Summary:	Full-screen task-switcher for X11
-Summary(pl):	Pe³noekranowy prze³±cznik zadañ dla X11
+Summary(pl.UTF-8):   PeÅ‚noekranowy przeÅ‚Ä…cznik zadaÅ„ dla X11
 Name:		skippy-xd
 Version:	0.5.0
 Release:	1
@@ -33,16 +33,16 @@ and Apple's Expose do (yeah, I know, Expose does more than just this),
 but I don't like metacity (expocity is a 'hacked up' version of that)
 and I don't have a Mac.
 
-%description -l pl
-Skippy mo¿e byæ najlepiej okre¶lony jako pe³noekranowy prze³±cznik
-zadañ dla X11. Stanowi alternatywê dla pasków zadañ i tradycyjnych
-prze³±czników zadañ, które nie s± najefektywniejsz± metod±
-prze³±czania miêdzy zadaniami (zw³aszcza, je¶li ma siê du¿o
+%description -l pl.UTF-8
+Skippy moÅ¼e byÄ‡ najlepiej okreÅ›lony jako peÅ‚noekranowy przeÅ‚Ä…cznik
+zadaÅ„ dla X11. Stanowi alternatywÄ™ dla paskÃ³w zadaÅ„ i tradycyjnych
+przeÅ‚Ä…cznikÃ³w zadaÅ„, ktÃ³re nie sÄ… najefektywniejszÄ… metodÄ…
+przeÅ‚Ä…czania miÄ™dzy zadaniami (zwÅ‚aszcza, jeÅ›li ma siÄ™ duÅ¼o
 uruchomionych aplikacji. Kiedy zostanie aktywowany (obecnie tylko przy
-pomocy klawisza), u³o¿y i przeskaluje miniaturki wszystkich okien na
-bie¿±cym pulpicie i pozwoli na wybór okna przy pomocy klawiatury lub
+pomocy klawisza), uÅ‚oÅ¼y i przeskaluje miniaturki wszystkich okien na
+bieÅ¼Ä…cym pulpicie i pozwoli na wybÃ³r okna przy pomocy klawiatury lub
 myszy. Tak samo robi to expocity i Expose Apple'a, ale expocity to
-osobny zarz±dca okien a Expose jest tylko dla Maców.
+osobny zarzÄ…dca okien a Expose jest tylko dla MacÃ³w.
 
 %prep
 %setup -q -n %{name}-%{version}
