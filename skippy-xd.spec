@@ -1,5 +1,5 @@
 Summary:	Full-screen task-switcher for X11
-Summary(pl.UTF-8):   Pełnoekranowy przełącznik zadań dla X11
+Summary(pl.UTF-8):	Pełnoekranowy przełącznik zadań dla X11
 Name:		skippy-xd
 Version:	0.5.0
 Release:	1
