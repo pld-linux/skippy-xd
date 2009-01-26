@@ -10,7 +10,6 @@ Source0:	http://thegraveyard.org/files/%{name}-%{version}.tar.bz2
 Patch0:		%{name}-fix_noxinerama.patch
 Patch1:		%{name}-fix_CARD32.patch
 URL:		http://thegraveyard.org/skippy.php
-BuildRequires:	imlib2-devel
 BuildRequires:	pcre-devel
 BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libX11-devel
